@@ -9,7 +9,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pkc189" alt="pkc189" /> </p>
+
 
 - 🔭 I’m currently working on **some of my side projects :P**
 
